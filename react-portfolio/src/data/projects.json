@@ -1,0 +1,16 @@
+[
+  {
+    "title":"Multiplayer Tic-Tac-Toe",
+    "imageSrc":"projects/project1.jpg",
+    "description":"This is a project made to play Tic-Tac-Toe multiplayer using WebSocket.",
+    "skills":["ReactJS","NodeJS","SocketIO"],
+    "source":"https://github.com/ch-ankit679/tic-tac-toe-react"
+  },
+  {
+    "title":"Handwritten Digit Recognition",
+    "imageSrc":"projects/project2.png",
+    "description":"This is a project made to recognize handwritten digit using Random Forest Classifier.",
+    "skills":["Pandas","Numpy","Matplotlib","Scikit-learn"],
+    "source":"https://github.com/ch-ankit679/handwritten_digit_prediction"
+  }
+]
