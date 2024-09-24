@@ -7,9 +7,16 @@
     "source":"https://github.com/ch-ankit679/tic-tac-toe-react"
   },
   {
+    "title":"Signature Downloader",
+    "imageSrc":"projects/project3.png",
+    "description":"This is a project made to draw and download image of your Signature.",
+    "skills":["HTML","CSS","JavaScript"],
+    "source":"https://github.com/ch-ankit679/signature_app"
+  },
+  {
     "title":"Handwritten Digit Recognition",
     "imageSrc":"projects/project2.png",
-    "description":"This is a project made to recognize handwritten digit using Random Forest Classifier.",
+    "description":"This is a ML model made to recognize handwritten digit using Random Forest Classifier.",
     "skills":["Pandas","Numpy","Matplotlib","Scikit-learn"],
     "source":"https://github.com/ch-ankit679/handwritten_digit_prediction"
   }
